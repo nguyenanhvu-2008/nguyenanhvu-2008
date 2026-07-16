@@ -17,7 +17,7 @@
 <p align="left">
   <!-- Thay thế hoặc thêm bớt các icon công nghệ ở đây. Tham khảo icon tại https://simpleicons.org/ -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,vscode,cursor" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,vscode,cursor,laravel" />
   </a>
 </p>
 
