@@ -17,7 +17,7 @@
 <p align="left">
   <!-- Thay thế hoặc thêm bớt các icon công nghệ ở đây. Tham khảo icon tại https://simpleicons.org/ -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,py,git,github,vscode,cursor" />
   </a>
 </p>
 
@@ -38,8 +38,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://facebook.com" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-  <a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://facebook.com/nav208/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+  <a href="mailto:vu48731@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 <p align="center">
