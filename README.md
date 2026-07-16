@@ -17,8 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Đã cập nhật đầy đủ các icon bao gồm cả Cursor (visualstudio/vscode làm đại diện nếu skillicons chưa cập nhật cursor, hoặc dùng trực tiếp cursor) -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,github,cs" />
+    <img src="https://skillicons.dev/icons?i=ghostty,vscode,php,py,github,postman" />
   </a>
 </p>
 
